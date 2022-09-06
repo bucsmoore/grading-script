@@ -1,0 +1,513 @@
+[
+  {
+    "github_username": "BlakeAbr",
+    "last_name": "Abrenica",
+    "first_name": "Blake",
+    "email": "babreni1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "Benicio-Alonzo",
+    "last_name": "Alonzo",
+    "first_name": "Benicio",
+    "email": "balonzo1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "mariaantonacci",
+    "last_name": "Antonacci",
+    "first_name": "Maria",
+    "email": "mantona1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "Tamanna211104",
+    "last_name": "Arora",
+    "first_name": "Tamanna",
+    "email": "tarora1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "Dbeiser",
+    "last_name": "Beiser",
+    "first_name": "Daniel",
+    "email": "dbeiser1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "kcao20",
+    "last_name": "Cao",
+    "first_name": "Kevin",
+    "email": "kcao10@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "retrieving",
+    "last_name": "Chan",
+    "first_name": "Jared",
+    "email": "jchan149@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A54)"
+  },
+  {
+    "github_username": "chen-j3",
+    "last_name": "Chen",
+    "first_name": "Jessica",
+    "email": "jchen753@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "ldiaz16",
+    "last_name": "Diaz",
+    "first_name": "Lucas",
+    "email": "ldiaz16@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  },
+  {
+    "github_username": "allen-domingo",
+    "last_name": "Domingo",
+    "first_name": "Allen",
+    "email": "adomin34@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A54)"
+  },
+  {
+    "github_username": "Kayla-Elliott",
+    "last_name": "Elliott",
+    "first_name": "Kayla",
+    "email": "kelliot6@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "alexeskenazi",
+    "last_name": "Eskenazi",
+    "first_name": "Alex",
+    "email": "aeskena1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "ryanfanchiotti",
+    "last_name": "Fanchiotti",
+    "first_name": "Ryan",
+    "email": "rfanchi1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A54)"
+  },
+  {
+    "github_username": "CarlosFigueroa04",
+    "last_name": "Figueroa Guzman",
+    "first_name": "Carlos",
+    "email": "cfiguer4@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A54)"
+  },
+  {
+    "github_username": "JesseFonte",
+    "last_name": "Fonte",
+    "first_name": "Jesse",
+    "email": "jfonte1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "nomegabing",
+    "last_name": "Genovese",
+    "first_name": "Nicholas",
+    "email": "ngenove1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "mackenziegoodluck",
+    "last_name": "Goodluck",
+    "first_name": "Mackenzie",
+    "email": "mgoodlu1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "colingrace10",
+    "last_name": "Grace",
+    "first_name": "Colin",
+    "email": "cgrace3@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "dgray11",
+    "last_name": "Gray",
+    "first_name": "Danielle",
+    "email": "dgray11@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  },
+  {
+    "github_username": "sarahhorvath",
+    "last_name": "Horvath",
+    "first_name": "Sarah",
+    "email": "shorvat1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "jhthirteen",
+    "last_name": "Hunter",
+    "first_name": "Jack",
+    "email": "jhunter5@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "JoshuaJanason",
+    "last_name": "Janason",
+    "first_name": "Joshua",
+    "email": "jjanaso1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "kjohn108",
+    "last_name": "Johnson",
+    "first_name": "Keaghan",
+    "email": "kjohn108@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A54)"
+  },
+  {
+    "github_username": "bjules123",
+    "last_name": "Jules",
+    "first_name": "Brianna",
+    "email": "bjules2@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "tjurado25",
+    "last_name": "Jurado",
+    "first_name": "Tysir",
+    "email": "tjurado1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "skwon23",
+    "last_name": "Kwon",
+    "first_name": "Sangyoon",
+    "email": "skwon23@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  },
+  {
+    "github_username": "Rlarson56",
+    "last_name": "Larson",
+    "first_name": "Richard",
+    "email": "rlarson1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "Avocadossausage",
+    "last_name": "Lee",
+    "first_name": "Sophia",
+    "email": "slee600@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A54)"
+  },
+  {
+    "github_username": "Durveyon",
+    "last_name": "Lu",
+    "first_name": "Brian",
+    "email": "blu22@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "CSJLU",
+    "last_name": "Lu",
+    "first_name": "Johnny",
+    "email": "jlu119@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "michellelu2",
+    "last_name": "Lu",
+    "first_name": "Michelle",
+    "email": "mlu29@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A54)"
+  },
+  {
+    "github_username": "kmejorada1",
+    "last_name": "Mejorada",
+    "first_name": "Kyle",
+    "email": "kmejora1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A54)"
+  },
+  {
+    "github_username": "emily-val",
+    "last_name": "Mendez",
+    "first_name": "Emily",
+    "email": "emendez3@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "JosephMichaud1",
+    "last_name": "Michaud",
+    "first_name": "Joseph",
+    "email": "jmichau1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "smontes2",
+    "last_name": "Montes",
+    "first_name": "Samuel",
+    "email": "smontes2@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "tylerm14",
+    "last_name": "Moy",
+    "first_name": "Tyler",
+    "email": "tmoy3@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  },
+  {
+    "github_username": "codymusial",
+    "last_name": "Musial",
+    "first_name": "Cody",
+    "email": "cmusial1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "Mason9013",
+    "last_name": "Nash",
+    "first_name": "Mason",
+    "email": "mnash1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "tinalenguyen",
+    "last_name": "Nguyen",
+    "first_name": "Tina",
+    "email": "tnguye89@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  },
+  {
+    "github_username": "gwendolynoh",
+    "last_name": "Oh",
+    "first_name": "Gwendolyn",
+    "email": "goh8@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "yongyin21",
+    "last_name": "Ong",
+    "first_name": "Yong Yin",
+    "email": "yong1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  },
+  {
+    "github_username": "Leenaouafik",
+    "last_name": "Ouafik",
+    "first_name": "Leena",
+    "email": "louafik1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "Sydney-Palmer",
+    "last_name": "Palmer",
+    "first_name": "Sydney",
+    "email": "spalmer7@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "rpanchmia22",
+    "last_name": "Panchmia",
+    "first_name": "Roman",
+    "email": "rpanchm1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "vishilpatel1",
+    "last_name": "Patel",
+    "first_name": "Vishil",
+    "email": "vpatel57@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  },
+  {
+    "github_username": "Cpetrag1",
+    "last_name": "Petragnani",
+    "first_name": "Christian",
+    "email": "cpetrag1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "wutyeephoo",
+    "last_name": "Phoo",
+    "first_name": "Wut Yee",
+    "email": "wphoo1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "kaymoraroberts",
+    "last_name": "Roberts",
+    "first_name": "Kaymora",
+    "email": "krober20@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "rumreichf",
+    "last_name": "Rumreich",
+    "first_name": "Frank",
+    "email": "frumrei1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "csammat1",
+    "last_name": "Sammataro",
+    "first_name": "Corey",
+    "email": "csammat1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "rsmith0323",
+    "last_name": "Smith",
+    "first_name": "Roisin",
+    "email": "rsmith82@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "ssoria1",
+    "last_name": "Soria",
+    "first_name": "Sergio",
+    "email": "ssoria1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A54)"
+  },
+  {
+    "github_username": "willsteddin",
+    "last_name": "Steddin",
+    "first_name": "Will",
+    "email": "wsteddi1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "ktalty1",
+    "last_name": "Talty",
+    "first_name": "Keira",
+    "email": "ktalty1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A54)"
+  },
+  {
+    "github_username": "nikkitan2",
+    "last_name": "Tan",
+    "first_name": "Nikki",
+    "email": "ntan2@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A54)"
+  },
+  {
+    "github_username": "jaketapia714",
+    "last_name": "Tapia",
+    "first_name": "Jake",
+    "email": "jtapia3@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  },
+  {
+    "github_username": "lthorne3",
+    "last_name": "Thorne",
+    "first_name": "Lillian",
+    "email": "lthorne3@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  },
+  {
+    "github_username": "jtunney1",
+    "last_name": "Tunney",
+    "first_name": "Justin",
+    "email": "jtunney1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  },
+  {
+    "github_username": "FatimeUseini",
+    "last_name": "Useini",
+    "first_name": "Fatime",
+    "email": "fuseini1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A54)"
+  },
+  {
+    "github_username": "BradBillion",
+    "last_name": "Vaval",
+    "first_name": "Bradley",
+    "email": "bvaval1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  },
+  {
+    "github_username": "gabriellavieira1",
+    "last_name": "Vieira",
+    "first_name": "Gabriella",
+    "email": "gvieira1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "ZakWahl",
+    "last_name": "Wahl",
+    "first_name": "Zakary",
+    "email": "zwahl2@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  },
+  {
+    "github_username": "kwen2827",
+    "last_name": "Weng",
+    "first_name": "Kalvin",
+    "email": "kweng2@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "ewilliams440",
+    "last_name": "Williams",
+    "first_name": "Kelly",
+    "email": "kwill142@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "raphaelw28",
+    "last_name": "Wong",
+    "first_name": "Raphael",
+    "email": "rwong42@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "Jwong12345",
+    "last_name": "Wong",
+    "first_name": "Jo Cheung",
+    "email": "jwong174@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "rain2030",
+    "last_name": "Yang",
+    "first_name": "Rain",
+    "email": "pyang19@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A52)"
+  },
+  {
+    "github_username": "iyun1",
+    "last_name": "Yun",
+    "first_name": "Ivan",
+    "email": "iyun1@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  },
+  {
+    "github_username": "TimZhengBinghamton38",
+    "last_name": "Zheng",
+    "first_name": "Tim",
+    "email": "tzheng38@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "epan3",
+    "last_name": "Pan",
+    "first_name": "Eric",
+    "email": "epan3@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A53)"
+  },
+  {
+    "github_username": "BrianLu0101",
+    "last_name": "Lu",
+    "first_name": "Brian",
+    "email": "blu22@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "soniarai4",
+    "last_name": "Rai",
+    "first_name": "Sonia",
+    "email": "srai4@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (ACT) (CS-110-A51)"
+  },
+  {
+    "github_username": "bdang12",
+    "last_name": "Dang",
+    "first_name": "Binh",
+    "email": "bdang2@binghamton.edu",
+    "section": "Fall 2022 Pgming Concepts&Applic (CS-110-A55)"
+  }
+]
